@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "Kpart"]
+	path = Kpart
+	url = https://github.com/cran/Kpart
+	shallow = true
+	registered = true
